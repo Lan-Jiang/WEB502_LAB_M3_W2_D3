@@ -1,0 +1,29 @@
+{
+  "name": "lab_m3_w1_d3",
+  "version": "1.0.0",
+  "description": "WEB502_LAB_M3_W1_D3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon ./start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lan-Jiang/WEB502_LAB_M3_W1_D3.git"
+  },
+  "author": "Lan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lan-Jiang/WEB502_LAB_M3_W1_D3/issues"
+  },
+  "homepage": "https://github.com/Lan-Jiang/WEB502_LAB_M3_W1_D3#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "express-validator": "^6.14.0",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
